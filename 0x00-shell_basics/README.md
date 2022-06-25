@@ -1,1 +1,1 @@
-Create directories welcome, welcome/to and welcome/to/school
+Magic file
