@@ -1,1 +1,1 @@
-0x00 Shell basics
+Script that prints Hello, World
