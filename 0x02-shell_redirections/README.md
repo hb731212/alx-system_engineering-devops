@@ -1,1 +1,1 @@
-Script that displays confused smiley
+Display the context of etc/passwd
