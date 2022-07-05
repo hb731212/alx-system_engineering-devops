@@ -1,1 +1,1 @@
-Display the context of etc/passwd
+Devide and rule
